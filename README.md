@@ -24,13 +24,8 @@ A simple academic code that may help to get back to when solving similar problem
 ### How
 
 The geometry in question is defined like :
-<!-- Geom -->
-<br />
-<p align="center">
-  <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="geometry.PNG" alt="Geom" width="200" height="200">
-  </a>
-</p>
+[![Geometry][Geom]]()
+
 
 * Then choose your material properties, thickness and your geometry following the rule above in _problem_1/main.m_:
 ```sh
@@ -69,37 +64,15 @@ alpha = heat_conduction * Area;
 
 
 * You get something like :
-<!-- Result -->
-<br />
-<p align="center">
-  <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="RF.PNG" alt="RF" width="200" height="200">
-  </a>
-</p>
+[![Displacements][Disp]]()
 
-<!-- Result -->
-<br />
-<p align="center">
-  <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="DEPL.PNG" alt="DEPL" width="200" height="200">
-  </a>
-</p>
+[![Reaction_Forces][RF]]()
 
-<!-- Result -->
-<br />
-<p align="center">
-  <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="Flux.PNG" alt="Flux" width="200" height="200">
-  </a>
-</p>
 
-<!-- Result -->
-<br />
-<p align="center">
-  <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="TEMP.PNG" alt="TEMP" width="200" height="200">
-  </a>
-</p>
+[![Heat_Flux][Flux]]()
+
+[![Temperature_Field][TEMP]]()
+
 
 ### Again, What
  
@@ -120,3 +93,10 @@ alpha = heat_conduction * Area;
 
 TIBA Azzeddine - [Portfolio](https://portfolium.com/AzzeddineTiba/portfolio) - azzeddine.tiba@gmail.com
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[TEMP]: TEMP.png
+[Flux]: Flux.png
+[RF]: RF.png
+[Disp]: DEPL.png
+[Geom]: geometry.PNG
