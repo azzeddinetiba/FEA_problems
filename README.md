@@ -28,7 +28,7 @@ The geometry in question is defined like :
 <br />
 <p align="center">
   <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="Results/geometry.PNG" alt="Geom" width="200" height="200">
+    <img src="geometry.PNG" alt="Geom" width="200" height="200">
   </a>
 </p>
 
@@ -73,7 +73,7 @@ alpha = heat_conduction * Area;
 <br />
 <p align="center">
   <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="Results/Results_pb1/RF.PNG" alt="RF" width="200" height="200">
+    <img src="RF.PNG" alt="RF" width="200" height="200">
   </a>
 </p>
 
@@ -81,7 +81,7 @@ alpha = heat_conduction * Area;
 <br />
 <p align="center">
   <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="Results/Results_pb1/DEPL.PNG" alt="DEPL" width="200" height="200">
+    <img src="DEPL.PNG" alt="DEPL" width="200" height="200">
   </a>
 </p>
 
@@ -89,7 +89,7 @@ alpha = heat_conduction * Area;
 <br />
 <p align="center">
   <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="Results/Results_pb2/Flux.PNG" alt="Flux" width="200" height="200">
+    <img src="Flux.PNG" alt="Flux" width="200" height="200">
   </a>
 </p>
 
@@ -97,7 +97,7 @@ alpha = heat_conduction * Area;
 <br />
 <p align="center">
   <a href="https://github.com/azzeddinetiba/FEA_problems">
-    <img src="Results/Results_pb2/TEMP.PNG" alt="TEMP" width="200" height="200">
+    <img src="TEMP.PNG" alt="TEMP" width="200" height="200">
   </a>
 </p>
 
